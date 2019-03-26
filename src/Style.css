@@ -1,0 +1,19 @@
+.button {
+    -fx-background-color: #FFBDE4;
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 20;
+}
+
+.button:hover {
+    -fx-background-color: #FF7DC9;
+}
+
+.pane {
+    -fx-background-color: #8fbc8f;
+}
+
+.choice-box {
+    -fx-background-color: #D9DAC8;
+    -fx-font-size: 18;
+}
+
